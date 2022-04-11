@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá pessoal, bem vindos ao meu GitHub👋
 
-<!--
-**DevCleberCarvalho/DevCleberCArvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cleber Carvalho, sou estudante de tecnologia, atualmente me graduando em Analise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Hoje estou estudando algumas tecnologias listadas abaixo, buscando minha primeira oportunidade no mercado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Linguagem SQL.
+*HTML e CSS.
+*Python.
+*Git and GitHub.
+
+Aqui listo algumas tecnologias que já tive contato no meio acadêmico.
+
+*Java.
+*Python.
+*C++.
+*React native.
+*Banco de dados.
+
+### Obridado por passar por aqui!
