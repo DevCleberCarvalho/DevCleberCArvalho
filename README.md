@@ -4,9 +4,12 @@ Meu nome é Cleber Carvalho, sou estudante de tecnologia, atualmente me graduand
 
 Hoje estou estudando algumas tecnologias listadas abaixo, buscando minha primeira oportunidade no mercado.
 
-*Linguagem SQL.
 *HTML e CSS.
+*Javascript.
+*React.
+*Node.Js
 *Python.
+*Linguagem SQL.
 *Git and GitHub.
 
 Aqui listo algumas tecnologias que já tive contato no meio acadêmico.
